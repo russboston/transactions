@@ -1,0 +1,212 @@
+[
+  {
+    "id": "1",
+    "txdate": "2025-05-20",
+    "amount": 125.5,
+    "description": "Luxury Suite Booking",
+    "type": "Travel"
+  },
+  {
+    "id": "2",
+    "txdate": "2025-05-20",
+    "amount": 3500,
+    "description": "IRA Investment Deposit",
+    "type": "Wealth"
+  },
+  {
+    "id": "3",
+    "txdate": "2025-05-19",
+    "amount": 75,
+    "description": "Online Grocery Order",
+    "type": "Consumer"
+  },
+  {
+    "id": "4",
+    "txdate": "2025-05-19",
+    "amount": 2500,
+    "description": "Business Loan",
+    "type": "Lending"
+  },
+  {
+    "id": "5",
+    "txdate": "2025-05-18",
+    "amount": 150,
+    "description": "Portfolio Rebalance",
+    "type": "Asset Management"
+  },
+  {
+    "id": "6",
+    "txdate": "2025-05-18",
+    "amount": 45.99,
+    "description": "Streaming Service Sub.",
+    "type": "Consumer"
+  },
+  {
+    "id": "7",
+    "txdate": "2025-05-17",
+    "amount": 800,
+    "description": "Flight to Tokyo",
+    "type": "Travel"
+  },
+  {
+    "id": "8",
+    "txdate": "2025-05-17",
+    "amount": 1000,
+    "description": "Bond Interest Payment",
+    "type": "Wealth"
+  },
+  {
+    "id": "9",
+    "txdate": "2025-05-16",
+    "amount": 30,
+    "description": "Coffee Shop Purchase",
+    "type": "Consumer"
+  },
+  {
+    "id": "10",
+    "txdate": "2025-05-16",
+    "amount": 1200,
+    "description": "Auto Loan Payment",
+    "type": "Lending"
+  },
+  {
+    "id": "11",
+    "txdate": "2025-05-15",
+    "amount": 200,
+    "description": "Managed Fund Deposit",
+    "type": "Asset Management"
+  },
+  {
+    "id": "12",
+    "txdate": "2025-05-15",
+    "amount": 65,
+    "description": "Clothing Store Purchase",
+    "type": "Consumer"
+  },
+  {
+    "id": "13",
+    "txdate": "2025-05-14",
+    "amount": 250,
+    "description": "Hotel in Paris",
+    "type": "Travel"
+  },
+  {
+    "id": "14",
+    "txdate": "2025-05-14",
+    "amount": 500,
+    "description": "Dividend Reinvestment",
+    "type": "Wealth"
+  },
+  {
+    "id": "15",
+    "txdate": "2025-05-13",
+    "amount": 15,
+    "description": "Fast Food Purchase",
+    "type": "Consumer"
+  },
+  {
+    "id": "16",
+    "txdate": "2025-05-13",
+    "amount": 5000,
+    "description": "Personal Loan Payout",
+    "type": "Lending"
+  },
+  {
+    "id": "17",
+    "txdate": "2025-05-12",
+    "amount": 80,
+    "description": "ETF Purchase",
+    "type": "Asset Management"
+  },
+  {
+    "id": "18",
+    "txdate": "2025-05-12",
+    "amount": 99.99,
+    "description": "Electronics Purchase",
+    "type": "Consumer"
+  },
+  {
+    "id": "19",
+    "txdate": "2025-05-11",
+    "amount": 300,
+    "description": "Train Tickets: Italy",
+    "type": "Travel"
+  },
+  {
+    "id": "20",
+    "txdate": "2025-05-11",
+    "amount": 250,
+    "description": "Mutual Fund Sale",
+    "type": "Wealth"
+  },
+  {
+    "id": "21",
+    "txdate": "2025-05-10",
+    "amount": 22.5,
+    "description": "Bookstore Purchase",
+    "type": "Consumer"
+  },
+  {
+    "id": "22",
+    "txdate": "2025-05-10",
+    "amount": 1800,
+    "description": "Business Loan Installment",
+    "type": "Lending"
+  },
+  {
+    "id": "23",
+    "txdate": "2025-05-09",
+    "amount": 120,
+    "description": "Retirement Fund Transfer",
+    "type": "Asset Management"
+  },
+  {
+    "id": "24",
+    "txdate": "2025-05-09",
+    "amount": 78,
+    "description": "Home Goods Purchase",
+    "type": "Consumer"
+  },
+  {
+    "id": "25",
+    "txdate": "2025-05-08",
+    "amount": 550,
+    "description": "Car Rental: Spain",
+    "type": "Travel"
+  },
+  {
+    "id": "26",
+    "txdate": "2025-05-08",
+    "amount": 750,
+    "description": "Stock Option Exercise",
+    "type": "Wealth"
+  },
+  {
+    "id": "27",
+    "txdate": "2025-05-07",
+    "amount": 38,
+    "description": "Pharmacy Purchase",
+    "type": "Consumer"
+  },
+  {
+    "id": "28",
+    "txdate": "2025-05-07",
+    "amount": 3000,
+    "description": "Mortgage Payment",
+    "type": "Lending"
+  },
+  {
+    "id": "29",
+    "txdate": "2025-05-06",
+    "amount": 95,
+    "description": "Investment Advice Fee",
+    "type": "Asset Management"
+  },
+  {
+    "id": "30",
+    "txdate": "2025-05-06",
+    "amount": 110,
+    "description": "Sporting Goods Purchase",
+    "type": "Consumer"
+  }
+]
